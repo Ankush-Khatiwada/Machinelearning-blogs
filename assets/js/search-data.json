@@ -38,8 +38,6 @@
   
 
   
-
-  
   
 
   
@@ -59,7 +57,7 @@
   
 
   
-      ,"page10": {
+      ,"page9": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://ankush-khatiwada.github.io/Machinelearning-blogs/robots.txt",
